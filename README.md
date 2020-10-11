@@ -8,9 +8,12 @@ We decided to not include any semesters in the assignment, because in the first 
 HOW-TO:
 
 1. Clone the repo
-2. Navigate to the src folder in org.eclipse.acceleo.module.sample.
-3. Navigate to "Transformation.mtl" file inside the org.eclipse.acceleo.module.main folder
-4. Right click on "Transformation.mtl" file and select Run as "launch acceleo application"
-5. Choose a model, which should be either one of the following programmes: BachelorInformatics, etc
-6. Choose a target, which should be src folder in ...
-7. Hit apply and run.
+2. Open Eclipse and go to File -> open project from file system
+3. Press Archive and then first open Assignment12-TDT4250 folder
+4. Same as step 3. but now open org.eclipse.acceleo.module.sample
+5. Navigate to the src folder in org.eclipse.acceleo.module.sample
+6. Navigate to "Transformation.mtl" file inside the org.eclipse.acceleo.module.main folder
+7. Right click on "Transformation.mtl" file and select Run as "launch acceleo application"
+8. Choose a model, which should be either one of the following programmes: BachelorInformatics, etc
+9. Choose a target, which should be the src folder in ...
+10. Hit apply and run.
